@@ -1,0 +1,8 @@
+C:\Users\ADMIN\Desktop\Unity\B1Buoi8\B1Buoi8\bin\Debug\B1Buoi8.exe.config
+C:\Users\ADMIN\Desktop\Unity\B1Buoi8\B1Buoi8\bin\Debug\B1Buoi8.exe
+C:\Users\ADMIN\Desktop\Unity\B1Buoi8\B1Buoi8\bin\Debug\B1Buoi8.pdb
+C:\Users\ADMIN\Desktop\Unity\B1Buoi8\B1Buoi8\obj\Debug\B1Buoi8.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\Unity\B1Buoi8\B1Buoi8\obj\Debug\B1Buoi8.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Unity\B1Buoi8\B1Buoi8\obj\Debug\B1Buoi8.exe
+C:\Users\ADMIN\Desktop\Unity\B1Buoi8\B1Buoi8\obj\Debug\B1Buoi8.pdb
+C:\Users\ADMIN\Desktop\Unity\B1Buoi8\B1Buoi8\obj\Debug\B1Buoi8.exe.config
